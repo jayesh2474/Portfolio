@@ -72,7 +72,7 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        I'm a BTech CSE 2nd year student studying at Techno India NJR Institute of Technology affiliated by Rajasthan Technical University. I enjoy learning new technologies and implement them in real world projects.
 <br /> <br/>
 I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent blogger. I love to write blogs and read books.
 <br/> <br/>
