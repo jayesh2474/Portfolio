@@ -39,7 +39,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://github.com/jayesh2474"}
+          href={"https://github.com/jayesh2474"} rel="noreferrer"
         >
           <Github
             width={25}
@@ -56,7 +56,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://twitter.com/JayeshJ74"}
+          href={"https://twitter.com/JayeshJ74"} rel="noreferrer"
         >
           <Twitter
             width={25}
@@ -73,7 +73,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://www.youtube.com/channel/UCjWsfnBFTx_hwQ8AATrH5zw"}
+          href={"https://www.youtube.com/channel/UCjWsfnBFTx_hwQ8AATrH5zw"} rel="noreferrer"
         >
           <YouTube
             width={25}
