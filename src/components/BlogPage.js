@@ -91,7 +91,7 @@ const BlogPage = () => {
 </Grid>
 
 </Center>
-<BigTitle text="BLOG" top="5rem" left="5rem" />
+<BigTitle text="Certificate" top="1rem" left="1rem" />
             </Container>
         </MainContainer>
     )

@@ -1,71 +1,87 @@
 // blog data
-
+import csrbox from "../assets/Images/intern_csrbox.png"
 export const Blogs = [
     {
+        id:10,
+        name:"Thrilled to share my Data Analytics internship completion certificate from IBM CSRBOX !",
+        tags:["MicrosoftLearn","learnmicrosoftai"],
+        date:"Aug, 2023",
+        imgSrc: csrbox,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
+        id:9,
+        name:"Microsoft Learn AI Skills Challenge!",
+        tags:["MicrosoftLearn","learnmicrosoftai"],
+        date:"Aug, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQG-ISEiprMFOw/feedshare-shrink_800/0/1692453470890?e=1710374400&v=beta&t=N1cCldZiCRwZrk3km6dJQR3ZUISNGRPM0OZVvh66g80",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
         id:1,
-        name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
-        tags:["react","gsap","styled-components"],
-        date:"13 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-        link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+        name:"AI For India 2.0 from GUVI Geek Networks, IITM Research Park !",
+        tags:["artificialintelliegence","skillindia"],
+        date:"15 Aug, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQEX7iZeyLQ9Ww/feedshare-shrink_800/0/1692096968215?e=1710374400&v=beta&t=Vwl_IhQzZF3k_XbeP860j_GL8pyQ44VH7hG6Q_Of9ws",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:2,
-        name:"How to create React Hamburger Menu using Styled-Components",
-        tags:["react","styled-components"],
-        date:"5 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-hamburger-menu"
+        name:"Achievement Unlocked: Python Certification from GUVI! 🏆",
+        tags:["GUVI","ContinuousLearning"],
+        date:"10 Aug, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQEfilQIaEPwvQ/feedshare-shrink_800/0/1691659054319?e=1710374400&v=beta&t=5J0ioqLAPjiqyuV7i5rmnLhfBD4xHcJ2tx-COZU-mnM",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:3,
-        name:"React Loading Screen: Try these 3 cool loading screens for your app",
-        tags:["react","react-lottie","styled-components"],
-        date:"6 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-loading-screens"
+        name:"CSRBOX: Data Analytics Internship Plan",
+        tags:["ProfessionalDevelopment","dataanalytics"],
+        date:"23 Jun, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQFJUFuX5WsfGw/feedshare-shrink_800/0/1687609573950?e=1710374400&v=beta&t=dGaB_-w_7y39YbZ6gAK1g6ZpGu_gcYKO98c0a-IK6PQ",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:4,
-        name:"How to build a Fabulous Todo App using React, Redux and Framer-Motion",
-        tags:["react","redux","framer-motion"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-        link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
+        name:"Certified in Data Analysis with python! ",
+        tags:["DataAnalysis","Certification","newskills"],
+        date:"23 Jun, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQHOXiDiyInBNw/feedshare-shrink_800/0/1687507074842?e=1710374400&v=beta&t=sYeRwwoiRLqdcbXslukCQz7Wck2KHw3GfdvMtCMo7yk",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:5,
-        name:"What is Higher Order Component (HOC) in React JS?",
-        tags:["react","reactJS","web-development"],
-        date:"3 Feb, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625295480148%2FlyKj8bpHK.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
+        name:"Certified in Agile meets Design Thinking: Unlocking Innovation and Collaboration",
+        tags:["agile","designthinking"],
+        date:"19 Jun, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQEDbytoxD_xEQ/feedshare-shrink_800/0/1687193604808?e=1710374400&v=beta&t=hOGTjsaqQMhTeqLzGGxhVy9rQYv4To6FmD6BLQKM8p0",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:6,
-        name:"How to implement Pagination Component in React from scratch",
-        tags:["react","css"],
-        date:"5 Jan, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625240050668%2FGAya9b0XK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/pagination-in-react"
+        name:"My certification in Data Science Course - Mastering the Fundamentals.",
+        tags:["growth","learning","datascience"],
+        date:"18 Jun, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQGSSyueguARaw/feedshare-shrink_800/0/1687082596189?e=1710374400&v=beta&t=I-NITK3Hui8nZX8q-OKER_ovWwpmnzvw37bX3tVwNVs",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
 
     },
    
     {
         id:7,
-        name:"What is Redux ? Simply Explained!",
-        tags:["react","redux","javascript"],
-        date:"16 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
-        link:"https://dev.to/codebucks/what-is-redux-simply-explained-2ch7"
+        name:"The Fundamental Of Digital Marketing certificate by Google Digital Garage!🎓",
+        tags:["digitalmarketing","googledigitalgarage"],
+        date:"12 June, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/D4D22AQHoFLVTy8XEcw/feedshare-shrink_800/0/1686631394762?e=1710374400&v=beta&t=BUFGuC0czU0qVkwJsZne06Kp-6I2Oqo5mpRSMK_9WqA",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
     {
         id:8,
-        name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
-        tags:["react","framer-motion","styled-components"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-        link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
+        name:"Certificate For Completing Digital 101 Journey Successfully. ",
+        tags:["digital","machinelearning"],
+        date:"12 Jan, 2023",
+        imgSrc:"https://media.licdn.com/dms/image/C4D22AQEBIg6Qhd5LoA/feedshare-shrink_800/0/1673863991302?e=1710374400&v=beta&t=NzREIlQGKUlgVCkQ36GgEKRVA9opeeLcIvbxbAFfNjQ",
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
   
 ] 
