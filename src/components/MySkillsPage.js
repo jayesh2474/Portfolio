@@ -136,7 +136,7 @@ Html, Css, Js, React, etc.
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+VScode, Github, etc.
 </p>
 </Description>
 

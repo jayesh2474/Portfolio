@@ -1,11 +1,56 @@
 // blog data
 import csrbox from "../assets/Images/intern_csrbox.png"
+import cs50 from "../assets/Images/cs50.png"
+import linux from "../assets/Images/linux.png"
+import nptel from "../assets/Images/nptel.png"
+import python from "../assets/Images/python.png"
+import soft from "../assets/Images/software.png"
 export const Blogs = [
+    {
+        id:15,
+        name:"Excited to share my latest achievement: earning the Software Engineer certificate from HackerRank !",
+        tags:["HackerRankCertification ","CodingJourney"],
+        date:"17 jan, 2024",
+        imgSrc: soft,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
+        id:14,
+        name:"Thrilled to announce my achievement of the Python Basic certificate from HackerRank !",
+        tags:["Python ","HackerRankCertification"],
+        date:"jan, 2024",
+        imgSrc: python,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
+        id:13,
+        name:"Successful completion of the NPTEL Programming in Java course!",
+        tags:["JavaProgramming","AchievementUnlocked"],
+        date:"Jul, 2023",
+        imgSrc: nptel,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
+        id:11,
+        name:"Exciting News: I've Earned My CS50 Certificate! 🎓",
+        tags:["HarvardExtensionSchool","ComputerScience"],
+        date:"jun, 2023",
+        imgSrc: cs50,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
+    {
+        id:12,
+        name:"Just completed the Basic Introduction to Linux course on Skill Up!",
+        tags:["TechSkills","SkillUpGraduate "],
+        date:"29 Aug, 2023",
+        imgSrc: linux,
+        link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
+    },
     {
         id:10,
         name:"Thrilled to share my Data Analytics internship completion certificate from IBM CSRBOX !",
-        tags:["MicrosoftLearn","learnmicrosoftai"],
-        date:"Aug, 2023",
+        tags:["IBMCSRBox ","Internship"],
+        date:"jun july, 2023",
         imgSrc: csrbox,
         link:"https://www.linkedin.com/in/jayesh-joshi-1b7261250/recent-activity/all/"
     },
