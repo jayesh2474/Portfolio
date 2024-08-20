@@ -20,6 +20,14 @@ export const Work = [
         github:"https://github.com/jayesh2474/Bharat_Intern_web_devlopment"
         
     },
+    {
+        id:3,
+        name:"Techie Ai",
+        description:"A Flutter-based application that integrates with the Gemini API to provide users with detailed guidance on PC builds. The chatbot helps users determine the compatibility of various hardware components and make informed decisions.",
+        tags:["flutter","geminiAPI","VSCode","Git/GitHub"],
+        demo:"https://github.com/Techie-AI/App",
+        github:"https://github.com/Techie-AI/App"
+    }
     
   
 ] 
