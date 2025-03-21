@@ -1,30 +1,32 @@
-# Jayesh Joshi's Portfolio
+# Portfolio
 
-Welcome to my portfolio website! This is where I showcase my projects, skills, and experience.
+<a href="https://www.portfolio.realjayesh.tech/">
+  <img alt="Portfolio" src="./public/preview.png" />
+</a>
 
-## About
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
 
-This portfolio website is designed to provide an overview of who I am, what I do, and the projects I've worked on. It includes sections such as:
+👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-- **About Me**: A brief introduction to who I am and my background.
-- **Projects**: Highlights of some of the projects I've worked on, including descriptions, technologies used, and links to live demos or repositories.
-- **Skills**: Overview of the skills and technologies I'm proficient in.
-- **Contact**: How to get in touch with me.
+### ✨ [Live Demo](https://www.portfolio.realjayesh.tech/)
 
-## Technologies Used
+## Getting Started
 
-- HTML
-- CSS
-- JavaScript
+In the project directory, you can run:
 
-## Deployment
+#### `yarn install`
 
-This website is deployed using [Netlify](https://www.netlify.com/). You can view it live at [https://jayeshjoshi.netlify.app/](https://jayeshjoshi.netlify.app/).
+#### `yarn dev`
 
-## Contributing
+Runs the app in the development mode.\
+Open [`http://localhost:3000`](http://localhost:3000) to view it in the browser.
 
-Feel free to contribute to this project by opening issues or pull requests. Suggestions and improvements are always welcome!
+## Design
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can always draw inspiration from the design, and no, you don't have to give me credits for that.
