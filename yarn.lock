@@ -116,6 +116,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@netlify/plugin-nextjs@^5.10.1":
+  version "5.10.1"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs/-/plugin-nextjs-5.10.1.tgz#caeea00f95f95e8808ea6b29a260ffeb1e3b44c6"
+  integrity sha512-HrE/+y5gIiYVyVQrhE566wfyXlvcbiuUaMe7yCG8X5/GBIGgidg2f7+1XrlOPsADsB5mup1N8N0N4OL5if+V8g==
+
 "@next/env@14.2.13":
   version "14.2.13"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-14.2.13.tgz#ba341ba9eb70db428fc1c754f49c3c516f7bab47"
