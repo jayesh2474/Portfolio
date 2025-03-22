@@ -3,8 +3,8 @@ export const METADATA = {
   title: "Portfolio | Jayesh Joshi",
   description:
     "Jayesh Joshi is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+  siteUrl: "https://www.portfolio.realjayesh.tech/",
+  twitterHandle: "@jayeshJ74",
   keywords: [
     "Jayesh Joshi",
     "Frontend Engineer",
@@ -124,11 +124,11 @@ export const PROJECTS = [
   },
   {
     name: "AI Medical Diagnosis",
-    image: "/projects/tesla.webp",
-    blurImage: "/projects/blur/tesla-blur.webp",
+    image: "/projects/jivan-khata.webp",
+    blurImage: "/projects/blur/jivan-khata.webp",
     description: "Image-based disease diagnosis using AI models.",
     gradient: ["#142D46", "#2E4964"],
-    url: "https://github.com/shubh73/tesla",
+    url: "",
     tech: ["react"],
   },
 ];
